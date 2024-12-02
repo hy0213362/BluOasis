@@ -1429,7 +1429,7 @@ footer{
 	}
 
 	#logo_image{
-		position: relative;
+		position: absolute;
 		width: 10%;
 		left: 25vw;
 		bottom: 0.05vw;
